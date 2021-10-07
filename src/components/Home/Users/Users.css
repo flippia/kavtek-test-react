@@ -62,3 +62,7 @@
 .users .left,.mid,.right{
     flex: 1;
 }
+.users .one-user{
+    color: black; 
+    text-decoration: none;   
+}
